@@ -1,0 +1,12 @@
+../Core/Src/pong.c:20:6:pong_start_screen	8	static
+../Core/Src/pong.c:32:6:pong_move_paddle	16	static
+../Core/Src/pong.c:45:6:pong_wait_for_button_press	8	static
+../Core/Src/pong.c:56:6:reset_game	4	static
+../Core/Src/pong.c:71:6:pong_update_ball_pos	4	static
+../Core/Src/pong.c:96:6:pong_game_over	40	static
+../Core/Src/pong.c:112:6:bounce_off_paddle	4	static
+../Core/Src/pong.c:119:6:pong_ball_at_paddle	4	static
+../Core/Src/pong.c:128:6:ball_in_paddle	16	static
+../Core/Src/pong.c:140:6:pong_display_frame	40	static
+../Core/Src/pong.c:153:9:get_ball_x	4	static
+../Core/Src/pong.c:157:9:get_ball_y	4	static
